@@ -7,12 +7,12 @@ module.exports.connections = {
   * Run: npm install sails-mongo@for-sails-0.12 --save                       *
   *                                                                          *
   ***************************************************************************/
-mongodb: {
+mongodb: {  //disposable db!
    adapter: 'sails-mongo',
    host: 'ds211029.mlab.com',
    port: 11029,
    user: 'h3ct0rjs', 
-   password: 'whyGerhebawHop1', 
+   password: 'whyGerhebawHop1123123123123', 
    database: 'blogsails'
  },
 };
